@@ -1,0 +1,28 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+when we initialise repository, a hidden directory named .git is created inside our current working directory. In order to create repository, we should use the command 'git init'.
+
+
+How is the staging area different from the working directory and the repository?
+What value do you think it offers?
+
+Staging area is different from both repository and working directory indeed. Because it gets the files ready for the commit process and the files get stored in repository. 
+
+
+How can you use the staging area to make sure you have one commit per logical
+change?
+
+
+What are some situations when branches would be helpful in keeping your history
+organized? How would branches help?
+
+
+How do the diagrams help you visualize the branch structure?
+
+
+What is the result of merging two branches together? Why do we represent it in
+the diagram the way we do?
+
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges
+manually?
